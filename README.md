@@ -1,0 +1,1 @@
+# wp_plugin_woocommerce_manufacturer_field
