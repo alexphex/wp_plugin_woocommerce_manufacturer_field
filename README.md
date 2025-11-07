@@ -1,6 +1,4 @@
 # wp_plugin_woocommerce_manufacturer_field
-# me & Copilot
-
 # WooCommerce Manufacturer Field
 
 **Version:** 1.0  
