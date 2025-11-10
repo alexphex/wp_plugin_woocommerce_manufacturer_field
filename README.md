@@ -2,7 +2,6 @@
 # WooCommerce Manufacturer Field
 
 **Version:** 1.0  
-**Author:** me & Copilot  
 **Description:** A plugin to add a custom "Manufacturer" field to WooCommerce products.
 
 ## Description
